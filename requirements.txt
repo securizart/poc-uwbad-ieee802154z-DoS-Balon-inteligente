@@ -1,0 +1,2 @@
+# No external high-frequency libraries required for standard verification
+# Built-in math and time modules used
