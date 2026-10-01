@@ -1,5 +1,7 @@
 # PoC UWBAD: Reactive Jamming and Physical Layer DoS on IEEE 802.15.4z RTLS
 
+[English version](README_EN.md)
+
 Este repositorio contiene la Prueba de Concepto (PoC) técnica y los entornos de simulación en laboratorio para evaluar la vulnerabilidad UWBAD (UWB Activation Delay) sobre el estándar IEEE 802.15.4z en Sistemas de Localización en Tiempo Real (RTLS) de alta disponibilidad bajo el ecosistema concreto del balón inteligente de diferentes ligas de futbol profesional internacionales.
 
 ---
